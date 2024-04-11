@@ -4,7 +4,10 @@ Key Points:
 
 Searches or gives random meal ideas.
 Shows recipes and ingredients after clicking a button.
-Made with web tech like Fetch API (for getting data), JavaScript (for making the site interactive), and CSS (for looks).
+Made with web tech like 
+1.Fetch API (for getting data)
+2.JavaScript (for making the site interactive)
+3.CSS (for looks).
 Tools and Resources:
 
 Uses pictures from Unsplash and icons from Font Awesome.
